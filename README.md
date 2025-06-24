@@ -1,4 +1,4 @@
-# msft-30day-analysis
+# MSFT-30Day-analysis
 30-day stock price analysis of Microsoft (MSFT) using yfinance and matplotlib
 
 ## Features
@@ -9,7 +9,7 @@
 - 5-day rolling volatility
 - 14-day RSI (momentum indicator)
 
-## 📄 Summary Report
+## Summary Report
 **Date:** 2025-06-24  
 **Latest Close Price:** $486.00  
 **Cumulative Return (30 days):** 10.98%  
