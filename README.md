@@ -9,7 +9,7 @@
 - 5-day rolling volatility
 - 14-day RSI (momentum indicator)
 
-## 📄 MSFT 30-Day Summary Report
+## 📄 Summary Report
 **Date:** 2025-06-24  
 **Latest Close Price:** $486.00  
 **Cumulative Return (30 days):** 10.98%  
