@@ -21,6 +21,19 @@
 - Current volatility level indicates a **relatively calm** market.  
 - RSI is at **77.69**, suggesting the stock is **overbought (RSI > 70)**.
 
-## Chart
+## Visual Analysis
 
-![MSFT 30-day closing price chart](chart.png)
+### 1. Price with SMA & EMA
+![SMA & EMA](images/plot1_price_sma_ema.png)
+
+### 2. Cumulative Return
+![Cumulative Return](images/plot2_cumulative_return.png)
+
+### 3. Daily Log Returns
+![Log Returns](images/plot3_log_returns.png)
+
+### 4. Rolling Volatility
+![Rolling Volatility](images/plot4_rolling_volatility.png)
+
+### 5. RSI (Relative Strength Index)
+![RSI](images/plot5_rsi.png)
