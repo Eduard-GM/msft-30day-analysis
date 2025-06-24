@@ -1,7 +1,10 @@
 # msft-30day-analysis
-30-day stock price analysis of Microsoft (MSFT) using yfinance and matplotlib
+
+30-day stock price analysis of Microsoft (MSFT) using Python, `yfinance`, `pandas`, and `matplotlib`.  
+Includes key technical indicators for trend, return, volatility, and momentum.
 
 ## Features
+
 - 30-day historical price chart
 - 10-day SMA and EMA overlays
 - Cumulative returns
@@ -36,4 +39,7 @@
 ### Interpretation:
 - The cumulative return shows the stock has moved **+10.98%** over the past month.  
 - Current volatility level indicates a **relatively calm** market.  
-- RSI is at **77.69**, suggesting the stock is **overbought (RSI > 70)**.
+- RSI is at **77.69**, suggesting the stock is **overbought (RSI > 70)**.  
+- The price remains **consistently above the 10-day SMA and EMA**, confirming short-term bullish momentum.  
+- Daily log returns have shown **low dispersion**, reinforcing the trend's stability with minimal abrupt swings.
+
