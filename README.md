@@ -9,18 +9,6 @@
 - 5-day rolling volatility
 - 14-day RSI (momentum indicator)
 
-## Summary Report
-**Date:** 2025-06-24  
-**Latest Close Price:** $486.00  
-**Cumulative Return (30 days):** 10.98%  
-**5-Day Rolling Volatility (latest):** 0.0094  
-**14-Day RSI (latest):** 77.69
-
-### Interpretation:
-- The cumulative return shows the stock has moved **+10.98%** over the past month.  
-- Current volatility level indicates a **relatively calm** market.  
-- RSI is at **77.69**, suggesting the stock is **overbought (RSI > 70)**.
-
 ## Visual Analysis
 
 ### 1. Price with SMA & EMA
@@ -37,3 +25,15 @@
 
 ### 5. RSI (Relative Strength Index)
 ![RSI](images/plot5_rsi.png)
+
+## Summary Report
+**Date:** 2025-06-24  
+**Latest Close Price:** $486.00  
+**Cumulative Return (30 days):** 10.98%  
+**5-Day Rolling Volatility (latest):** 0.0094  
+**14-Day RSI (latest):** 77.69
+
+### Interpretation:
+- The cumulative return shows the stock has moved **+10.98%** over the past month.  
+- Current volatility level indicates a **relatively calm** market.  
+- RSI is at **77.69**, suggesting the stock is **overbought (RSI > 70)**.
