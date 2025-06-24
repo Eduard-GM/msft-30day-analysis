@@ -8,8 +8,6 @@
 - Daily log returns
 - 5-day rolling volatility
 - 14-day RSI (momentum indicator)
-- Executive summary report (auto-generated)
-
 
 ## Chart
 
